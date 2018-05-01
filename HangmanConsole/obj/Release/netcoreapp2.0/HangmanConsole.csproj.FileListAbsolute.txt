@@ -1,0 +1,11 @@
+C:\Users\Yanick\Desktop\HangmanConsole\HangmanConsole\bin\Release\netcoreapp2.0\HangmanConsole.deps.json
+C:\Users\Yanick\Desktop\HangmanConsole\HangmanConsole\bin\Release\netcoreapp2.0\HangmanConsole.runtimeconfig.json
+C:\Users\Yanick\Desktop\HangmanConsole\HangmanConsole\bin\Release\netcoreapp2.0\HangmanConsole.runtimeconfig.dev.json
+C:\Users\Yanick\Desktop\HangmanConsole\HangmanConsole\bin\Release\netcoreapp2.0\HangmanConsole.dll
+C:\Users\Yanick\Desktop\HangmanConsole\HangmanConsole\bin\Release\netcoreapp2.0\HangmanConsole.pdb
+C:\Users\Yanick\Desktop\HangmanConsole\HangmanConsole\obj\Release\netcoreapp2.0\HangmanConsole.csprojResolveAssemblyReference.cache
+C:\Users\Yanick\Desktop\HangmanConsole\HangmanConsole\obj\Release\netcoreapp2.0\HangmanConsole.csproj.CoreCompileInputs.cache
+C:\Users\Yanick\Desktop\HangmanConsole\HangmanConsole\obj\Release\netcoreapp2.0\HangmanConsole.AssemblyInfoInputs.cache
+C:\Users\Yanick\Desktop\HangmanConsole\HangmanConsole\obj\Release\netcoreapp2.0\HangmanConsole.AssemblyInfo.cs
+C:\Users\Yanick\Desktop\HangmanConsole\HangmanConsole\obj\Release\netcoreapp2.0\HangmanConsole.dll
+C:\Users\Yanick\Desktop\HangmanConsole\HangmanConsole\obj\Release\netcoreapp2.0\HangmanConsole.pdb
