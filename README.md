@@ -1,6 +1,6 @@
 # HangmanConsole
 
-### Here is a preview of that actual app.
+Here is a preview of that actual app:
 ![Preview](https://i.imgur.com/d7UUhs6.png)
 
 ### How to run
